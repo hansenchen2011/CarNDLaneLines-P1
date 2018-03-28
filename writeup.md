@@ -53,4 +53,4 @@ Most funcitons' protypes are from Udacity's project Github.
 The Outlier reduciton comes from www.stackoverflow.com.  
 The slope computation weighted by line length and the queue operation data structure is from Naoki Shibuya,
 [Naoki's Github](https://github.com/naokishibuya/car-finding-lane-lines)  
-Thank  classmates for the valuable discussions.
+Thank classmates for the valuable discussions.
